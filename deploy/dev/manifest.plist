@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://lee-taein.github.io/intermd/dev/InterMD_323_02_20230509001_AdHoc.ipa</string>
+					<string>https://lee-taein.github.io/intermd/deploy/dev/InterMD_323_03_20230526001_AdHoc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://lee-taein.github.io/intermd/dev/thumbnail.png</string>
+					<string>https://lee-taein.github.io/intermd/deploy/dev/thumbnail.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://lee-taein.github.io/intermd/dev/fullsize.png</string>
+					<string>https://lee-taein.github.io/intermd/deploy/dev/fullsize.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
