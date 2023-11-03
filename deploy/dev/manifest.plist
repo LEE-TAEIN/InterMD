@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://lee-taein.github.io/intermd/deploy/dev/InterMD_331_03_20231020001_AdHoc.ipa</string>
+					<string>https://lee-taein.github.io/intermd/deploy/dev/InterMD_332_03_20231103001_AdHoc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.dpointcorp.intermd</string>
 				<key>bundle-version</key>
-				<string>3.3.1</string>
+				<string>3.3.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
